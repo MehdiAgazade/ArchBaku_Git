@@ -1,0 +1,252 @@
+@media (max-width: 1410px) {
+    .section-6-parts {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+
+@media (max-width: 1310px) {
+    .section-3-picture-4 {
+        display: none;
+    }
+
+    .section-4-parts {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .section-4-part-different {
+        margin-bottom: -0px;
+    }
+
+    .section-5-parts {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .section-5 {
+        height: 1000px;
+    }
+
+    .nav-links a {
+        font-size: 14px;
+    }
+
+    .section-8-line-2 {
+        display: none;
+    }
+
+    .section-8-left-right {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
+
+/* End of 1310px */
+
+
+
+@media (max-width: 1200px) {
+    .nav-links {
+        display: none;
+    }
+
+    .bars-2 {
+        display: block;
+        font-size: 25px;
+    }
+    
+    .section-2-left-right {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .section-3-pictures {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    
+
+}
+
+/* End of 1200px */
+
+
+
+@media (max-width: 1070px) {
+    .section-3-picture-3 {
+        display: none;
+    }
+
+    
+}
+
+/* End of 1070px */
+
+
+
+@media (max-width: 992px) {
+    .bars {
+        display: block;
+        font-size: 25px;
+    }
+
+    .head-navbar-phone-gmail-location {
+        font-size: 14px;
+    }
+
+    .head-navbar-icons {
+        display: none;
+    }
+
+    .section-1-big-text {
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .section-2-right-small-text {
+        font-size: 15px;
+    }
+
+    .section-3-picture-3, .section-3-picture-4 {
+        display: none;
+    }
+
+    .section-7-parts-1 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .section-7-parts-2 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
+
+/* End of 992px */
+
+@media (max-width: 936px) {
+    .section-8-name-gmail-phone-inputs-big-input-btn {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .section-8-big-input-btn {
+        margin-top: -30px;
+    }
+}
+
+
+@media (max-width: 815px) {
+    .section-5 {
+        height: 1500px;
+    }
+}
+
+@media (max-width: 768px) {
+    .head-navbar-location {
+        display: none;
+    }
+
+    .section-1-small-text {
+        font-size: 12px;
+    }
+
+    .section-2-right-small-text {
+        font-size: 12px;
+    }
+    
+    .see-all-click {
+        display: block;
+    }
+
+    .section-3-btn {
+        display: none;
+    }
+
+    .section-3-picture-2 {
+        display: none;
+    }
+
+    
+}
+
+/* End of 768px */
+
+
+
+@media (max-width: 600px) {
+    .head-navbar-gmail {
+        display: none;
+    }
+
+    .section-1-small-text {
+        font-size: 10px;
+    }
+
+    .section-2-right-small-text {
+        font-size: 10px;
+    }
+
+    .section-3-btn {
+        margin-top: 30px;
+    }
+    
+    .section-3-text-btn-see-click {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .section-3-line {
+        margin-bottom: 30px;
+    }
+
+    .section-3-picture-1 {
+        margin-top: -50px;
+    }
+
+    .section-4-part-small-text {
+        font-size: 12px;
+    }
+
+    .section-4-part-big-text {
+        font-size: 16px;
+    }
+
+    .section-5-part-text {
+        font-size: 14px;
+    }
+
+    .section-6-part-big-text {
+        font-size: 16px;
+    }
+
+    .section-6-part-small-text {
+        font-size: 12px;
+    }
+
+    .section-8-left-phone-number, .section-8-left-gmail-number, .section-8-left-location-number {
+        font-size: 12px;
+    }
+
+    .section-8-name-gmail-phone-inputs-big-input-btn input {
+        width: 250px;
+    }
+
+    .section-8-big-input textarea {
+        width: 250px;
+    }
+
+    .section-8-right-btn {
+        display: flex;
+        justify-content: center;
+    }
+    
+
+}
+
+/* End of 600px */

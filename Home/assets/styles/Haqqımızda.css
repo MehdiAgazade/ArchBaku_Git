@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.head-navbar {
+    height: 50px;
+    width: 100%;
+    background-color: #016B38;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 60px;
+}
+
+.head-navbar-phone-gmail-location {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-weight: 400;
+}
+
+.head-navbar-phone-gmail-location p {
+    display: flex;
+    gap: 10px;
+    transition: 0.3s;
+}
+
+.head-navbar-phone-gmail-location p:hover {
+    scale: 1.03;
+    cursor: pointer;
+    color: #B08968;
+}
+
+.bars {
+    display: none;
+    transition: 0.3s;
+}
+
+.head-navbar-icons {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.head-navbar-icons a {
+    transition: 0.3s;
+    color: white;
+}
+
+.head-navbar-icons a:hover {
+    scale: 1.03;
+    cursor: pointer;
+    color: #B08968;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 19px 60px;
+}
+
+.nav-links ul {
+    display: flex;
+    align-items: center;
+    gap: 58px;
+    font-size: 18px;
+    list-style-type: square;
+}
+
+.nav-links ul span a {
+    color: #B08968;
+}
+
+.nav-links ul span:hover {
+    scale: 1.03;
+    cursor: pointer;
+}
+
+.nav-links ul span {
+    transition: 0.3s;
+}
+
+.nav-links ul a {
+    color: #5E5E5E;
+    transition: 0.3s;
+}
+
+.nav-links a:hover {
+    scale: 1.03;
+    cursor: pointer;
+    color: #B08968;
+}
+
+.bars-2 {
+    display: none;
+    color: #5E5E5E;
+    transition: 0.3s;
+}
+
+.bars:hover, .bars-2:hover {
+    transform: rotate(-90deg);
+    cursor: pointer;
+}
+
+.section-1 {
+    background: linear-gradient(180deg, rgba(10, 66, 39, 0.45), rgba(10, 66, 39, 1)), url("../images/Haqqimizda-Bck-Img.png");
+    height: 255px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    padding: 117px 123px 0;
+    color: white;
+    margin-bottom: 143px;
+}
+
+.section-1-line-big-text {
+    display: flex;
+    gap: 18px;
+}
+
+.section-1-line {
+    height: 5px;
+    width: 35px;
+    background-color: #B08968;
+    margin-top: 18px;
+    transform: rotate(90deg);
+}
+
+.section-1-big-text {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 22px;
+}
+
+.section-1-small-text span {
+    color: #b1b1b1;
+    margin-left: 20px;
+    
+}

@@ -908,3 +908,131 @@
     width: 100%;
     object-fit: cover;
 }
+
+.all-footer-sections {
+    background-color: #0B5531;
+    padding: 67px 104px 0;
+}
+
+.footer-sections-1-2-3 {
+    display: flex;
+    justify-content: center;
+    gap: 102px;
+}
+
+.footer-section-1-text {
+    color: #E8E8E8;
+    margin-top: 36px;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 23px;
+}
+
+.footer-section-1-btns {
+    display: flex;
+    gap: 14px;
+}
+
+.footer-section-1-btns button {
+    height: 31px;
+    width: 31px;
+    border-radius: 4px;
+    border: 1px solid white;
+    background-color: #0B5531;
+    transition: 0.3s;
+}
+
+.footer-section-1-btns button a {
+    color: white;
+}
+
+.footer-section-1-btns button:hover {
+    scale: 1.05;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 0 0 10px white;
+}
+
+.footer-section-1-btns button:hover a {
+    color: #0B5531;
+}
+
+.footer-section-2-3-big-text {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 18px;
+    color: white;
+}
+
+.footer-section-2-3-line {
+    height: 3px;
+    width: 60px;
+    border-radius: 2px;
+    background-color: #B08968;
+    margin-bottom: 43px;
+}
+
+.footer-section-2-links {
+    display: flex;
+    gap: 70px;
+}
+
+.footer-section-2-link-1 a {
+    display: flex;
+    gap: 10px;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.footer-section-2-link-2 a {
+    display: flex;
+    gap: 10px;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.footer-section-2-link-1 a:hover,
+.footer-section-2-link-2 a:hover {
+    scale: 1.03;
+    cursor: pointer;
+    text-decoration: underline;
+    text-shadow: 0 0 10px white;
+}
+
+.footer-section-3-imgs {
+    margin-bottom: 71px;
+}
+
+.footer-section-img-1,
+.footer-section-img-2 {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-section-img-1 img,
+.footer-section-img-2 img {
+    height: 80px;
+    width: 80px;
+    object-fit: cover;
+}
+
+.footer-line {
+    height: 1px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.last-footer-section {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 24px;
+    padding-bottom: 36px;
+    color: white;
+    font-size: 14px;
+}

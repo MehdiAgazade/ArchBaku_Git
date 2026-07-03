@@ -1,0 +1,154 @@
+@media (max-width: 1400px) {
+    .footer-section-1-text {
+        font-size: 12px;
+        text-align: center;
+    }
+}
+
+/* End of 1440px */
+
+
+
+@media (max-width: 1310px) {
+    .nav-links a {
+        font-size: 14px;
+    }
+}
+
+/* End of 1310px */
+
+
+
+@media (max-width: 1200px) {
+    .nav-links {
+        display: none;
+    }
+
+    .bars-2 {
+        display: block;
+        font-size: 25px;
+    }
+
+    .section-2-left-right {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .footer-sections-1-2-3 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
+
+/* End of 1200px */
+
+
+
+@media (max-width: 992px) {
+    .bars {
+        display: block;
+        font-size: 25px;
+    }
+
+    .head-navbar-phone-gmail-location {
+        font-size: 14px;
+    }
+
+    .head-navbar-icons {
+        display: none;
+    }
+
+    .section-3-parts-1 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .section-3-parts-2 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
+
+/* End of 992px */
+
+
+
+@media (max-width: 768px) {
+    .head-navbar-location {
+        display: none;
+    }
+
+    .section-2-right-small-text {
+        font-size: 14px;
+    }
+
+
+}
+
+/* End of 768px */
+
+
+
+@media (max-width: 600px) {
+    .head-navbar-gmail {
+        display: none;
+    }
+
+    .section-1 {
+        padding: 117px 50px 0;
+    }
+
+    .section-2-right-big-text {
+        font-size: 30px;
+    }
+
+    .section-2-left-img img {
+        height: 300px;
+        width: 400px;
+    }
+
+    .section-2-right-small-text {
+        font-size: 10px;
+    }
+
+    .footer-section-2-links {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .footer-section-2-links a {
+        font-size: 16px;
+
+    }
+
+    .footer-section-2-link-2 {
+        margin-top: -70px;
+    }
+
+    .footer-section-1-text {
+        font-size: 10px;
+    }
+
+    .footer-section-3-imgs img {
+        display: flex;
+        flex-wrap: wrap;
+        height: 60px;
+        width: 60px;
+    }
+
+    
+
+    .last-footer-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .created {
+        margin-top: 20px;
+    }
+
+}
+
+/* End of 600px */

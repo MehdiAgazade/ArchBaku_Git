@@ -11,7 +11,7 @@
 
 @media (max-width: 1310px) {
     .nav-links a {
-        font-size: 14px;
+        font-size: 15px;
     }
 }
 
@@ -83,8 +83,6 @@
     .section-2-right-small-text {
         font-size: 14px;
     }
-
-
 }
 
 /* End of 768px */
@@ -137,8 +135,6 @@
         height: 60px;
         width: 60px;
     }
-
-    
 
     .last-footer-section {
         display: flex;

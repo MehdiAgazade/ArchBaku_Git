@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.head-navbar {
+    height: 50px;
+    width: 100%;
+    background-color: #016B38;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 60px;
+}
+
+.head-navbar-phone-gmail-location {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-weight: 400;
+}
+
+.head-navbar-phone-gmail-location p {
+    display: flex;
+    gap: 10px;
+    transition: 0.3s;
+}
+
+.head-navbar-phone-gmail-location p:hover {
+    scale: 1.03;
+    cursor: pointer;
+    color: #B08968;
+}
+
+.bars {
+    display: none;
+    transition: 0.3s;
+}
+
+.head-navbar-icons {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.head-navbar-icons a {
+    transition: 0.3s;
+    color: white;
+}
+
+.head-navbar-icons a:hover {
+    scale: 1.03;
+    cursor: pointer;
+    color: #B08968;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 19px 60px;
+}
+
+.nav-links ul {
+    display: flex;
+    align-items: center;
+    gap: 58px;
+    font-size: 18px;
+    list-style-type: square;
+}
+
+.nav-links ul span a {
+    color: #B08968;
+}
+
+.nav-links ul span:hover {
+    scale: 1.03;
+    cursor: pointer;
+}
+
+.nav-links ul span {
+    transition: 0.3s;
+}
+
+.nav-links ul a {
+    color: #5E5E5E;
+    transition: 0.3s;
+}
+
+.nav-links a:hover {
+    scale: 1.03;
+    cursor: pointer;
+    color: #B08968;
+}
+
+.bars-2 {
+    display: none;
+    color: #5E5E5E;
+    transition: 0.3s;
+}
+
+.bars:hover, .bars-2:hover {
+    transform: rotate(-90deg);
+    cursor: pointer;
+}

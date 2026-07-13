@@ -1,0 +1,59 @@
+<div class="section-1">
+                    <div class="section-1-line-big-text">
+                        <div class="section-1-line"></div>
+                        <div class="section-1-big-text">
+                            <p>LAYİHƏLƏR</p>
+                        </div>
+                    </div>
+                    <div class="section-1-small-text">
+                        <p><span>Əsas səhifə</span> <i class="fa-solid fa-angle-right"></i> Layihələr</p>
+                    </div>
+                </div>
+
+
+
+
+
+
+.section-1 {
+    background: linear-gradient(180deg, rgba(10, 66, 39, 0.45), rgba(10, 66, 39, 1)), url("../images/Haqqimizda-Bck-Img.png");
+    height: 255px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    padding: 117px 123px 0;
+    color: white;
+    margin-bottom: 143px;
+}
+
+.section-1-line-big-text {
+    display: flex;
+    gap: 18px;
+}
+
+.section-1-line {
+    height: 5px;
+    width: 35px;
+    background-color: #B08968;
+    margin-top: 18px;
+    transform: rotate(90deg);
+}
+
+.section-1-big-text {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 22px;
+}
+
+.section-1-small-text span {
+    color: #b1b1b1;
+    margin-left: 20px;
+}
+
+
+
+.section-1 {
+        padding: 117px 50px 0;
+    }
+
+    600px

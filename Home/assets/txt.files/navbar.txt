@@ -1,0 +1,45 @@
+<header>
+            <nav>
+                <div class="head-navbar">
+                    <div class="head-navbar-phone-gmail-location">
+                        <div class="head-navbar-phone">
+                            <p><i class="fa-solid fa-phone-volume"></i> +994 51 987 65 43</p>
+                        </div>
+                        <div class="head-navbar-gmail">
+                            <p><i class="fa-solid fa-envelope"></i> info@archbaku.az</p>
+                        </div>
+                        <div class="head-navbar-location">
+                            <p><i class="fa-solid fa-location-dot"></i> Bakı, Azərbaycan</p>
+                        </div>
+                    </div> 
+                    <div class="head-navbar-icons">
+                        <a href="https://www.facebook.com/"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://tr.linkedin.com/"><i class="fa-brands fa-linkedin-in"></i></a>
+                        <a href="https://web.whatsapp.com/"><i class="fa-brands fa-whatsapp"></i></a>
+                    </div>
+                    <div class="bars">
+                        <i class="fa-solid fa-bars"></i>
+                    </div>
+                </div>
+                <div class="navbar">
+                    <div class="logo">
+                        <a href="./Home.html"><img src="./assets/images/Logo.png" alt="Logo"></a>
+                    </div>
+                    <div class="nav-links">
+                        <ul>
+                            <a href="./Home.html"><li>Əsas səhifə</li></a>
+                            <a href="./Haqqımızda.html"><li>Haqqımızda</li></a>
+                            <span><a href="./Layihələr.html"><li>Layihələr</li></a></span>
+                            <a href="./Xidmətlər.html"><li>Xidmətlər</li></a>
+                            <a href="./Vakansiyalar.html"><li>Vakansiyalar</li></a>
+                            <a href="./Xəbərlər.html"><li>Xəbərlər</li></a>
+                            <a href="./Əlaqə.html"><li>Əlaqə</li></a>
+                        </ul>
+                    </div>
+                    <div class="bars-2">
+                        <i class="fa-solid fa-bars"></i>
+                    </div>
+                </div>
+            </nav>
+        </header>

@@ -6,7 +6,7 @@
 }
 
 /* End of 1400px */
- 
+
 
 
 @media (max-width: 1310px) {
@@ -25,7 +25,7 @@
     .section-2-part-small-text {
         font-size: 10px;
         line-height: 12px;
-    } 
+    }
 }
 
 /* End of 1310px */
@@ -51,7 +51,7 @@
         grid-template-rows: repeat(3, 1fr);
     }
 
-     .section-2-part-time-view {
+    .section-2-part-time-view {
         font-size: 12px;
     }
 
@@ -62,7 +62,7 @@
     .section-2-part-small-text {
         font-size: 10px;
         line-height: 12px;
-    } 
+    }
 
     .footer-sections-1-2-3 {
         display: flex;

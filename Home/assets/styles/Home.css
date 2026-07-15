@@ -109,7 +109,8 @@
     transition: 0.3s;
 }
 
-.bars:hover, .bars-2:hover {
+.bars:hover,
+.bars-2:hover {
     transform: rotate(-90deg);
     cursor: pointer;
 }
@@ -405,7 +406,7 @@
 }
 
 .section-4-part-change-different p {
-    transition: 0.3s;    
+    transition: 0.3s;
 }
 
 .section-4-part-change-different p:hover {
@@ -419,7 +420,7 @@
 }
 
 .section-4-part-change p {
-    transition: 0.3s;    
+    transition: 0.3s;
 }
 
 .section-4-part-change p:hover {
@@ -904,7 +905,7 @@
 }
 
 .section-9-img img {
-    height: 542px;
+    height: 100%;
     width: 100%;
     object-fit: cover;
 }
@@ -912,6 +913,7 @@
 .all-footer-sections {
     background-color: #0B5531;
     padding: 67px 104px 0;
+    margin-top: -4px;
 }
 
 .footer-sections-1-2-3 {

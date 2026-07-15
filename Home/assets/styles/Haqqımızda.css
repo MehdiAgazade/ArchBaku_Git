@@ -109,7 +109,8 @@
     transition: 0.3s;
 }
 
-.bars:hover, .bars-2:hover {
+.bars:hover,
+.bars-2:hover {
     transform: rotate(-90deg);
     cursor: pointer;
 }

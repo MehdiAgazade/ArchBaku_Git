@@ -109,7 +109,8 @@
     transition: 0.3s;
 }
 
-.bars:hover, .bars-2:hover {
+.bars:hover,
+.bars-2:hover {
     transform: rotate(-90deg);
     cursor: pointer;
 }
@@ -203,7 +204,7 @@
 }
 
 .section-2-part-change-different p {
-    transition: 0.3s;    
+    transition: 0.3s;
 }
 
 .section-2-part-change-different p:hover {
@@ -217,7 +218,7 @@
 }
 
 .section-2-part-change p {
-    transition: 0.3s;    
+    transition: 0.3s;
 }
 
 .section-2-part-change p:hover {

@@ -62,7 +62,7 @@
         display: block;
         font-size: 25px;
     }
-    
+
     .section-2-left-right {
         display: flex;
         flex-wrap: wrap;
@@ -121,7 +121,8 @@
         font-size: 15px;
     }
 
-    .section-3-picture-3, .section-3-picture-4 {
+    .section-3-picture-3,
+    .section-3-picture-4 {
         display: none;
     }
 
@@ -173,7 +174,7 @@
     .section-2-left-small-text-2 {
         font-size: 12px;
     }
-    
+
     .see-all-click {
         display: block;
     }
@@ -186,7 +187,7 @@
         display: none;
     }
 
-    
+
 }
 
 /* End of 768px */
@@ -214,7 +215,7 @@
     .section-3-btn {
         margin-top: 30px;
     }
-    
+
     .section-3-text-btn-see-click {
         display: flex;
         flex-wrap: wrap;
@@ -248,7 +249,9 @@
         font-size: 12px;
     }
 
-    .section-8-left-phone-number, .section-8-left-gmail-number, .section-8-left-location-number {
+    .section-8-left-phone-number,
+    .section-8-left-gmail-number,
+    .section-8-left-location-number {
         font-size: 12px;
     }
 
@@ -290,7 +293,7 @@
         width: 60px;
     }
 
-    
+
 
     .last-footer-section {
         display: flex;

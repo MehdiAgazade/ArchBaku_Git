@@ -109,7 +109,8 @@
     transition: 0.3s;
 }
 
-.bars:hover, .bars-2:hover {
+.bars:hover,
+.bars-2:hover {
     transform: rotate(-90deg);
     cursor: pointer;
 }
@@ -166,7 +167,7 @@
 
 .section-2-part {
     height: 430px;
-    width: 100%;  
+    width: 100%;
     background-color: #F4F4F4;
     border: 1px solid #DDDDDD;
     border-radius: 8px;
@@ -177,7 +178,7 @@
 
 .section-2-part-2 {
     height: 410px;
-    width: 100%;  
+    width: 100%;
     background-color: #F4F4F4;
     border: 1px solid #DDDDDD;
     border-radius: 8px;
